@@ -1,2 +1,2 @@
 # Musician-band-album
-My first repository
+projektarbeta i OOP GRUPP 3
