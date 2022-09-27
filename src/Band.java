@@ -27,7 +27,7 @@ public class Band extends BasicInfo {
     public void setMembersAndJoinYear(HashMap<Musician, String> membersAndJoinYear) {
         this.membersAndJoinYear = membersAndJoinYear;
     }
-
+    //return list of albums
     public ArrayList<Album> getAlbums() {
         return albums;
     }

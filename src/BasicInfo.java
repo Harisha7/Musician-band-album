@@ -24,7 +24,7 @@ public class BasicInfo {
     public void setInfo(String info) {
         this.info = info;
     }
-
+    //Return the birth
     public int getBirthYear() {
         return birthYear;
     }
